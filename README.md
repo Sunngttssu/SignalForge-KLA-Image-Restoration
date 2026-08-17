@@ -5,10 +5,11 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 
 **Architecture:** Prompt-FS-NAF  
-**Authors:** V. K. Shivaang Simha, Prantor Jyoti Bharadwaj, Sayan Choudhary  
+**Authors:** V. K. Shivaang Simha, Prantor Jyoti Bharadwaj, Sayan Choudhury
+**Team Name:** SignalForge
 **Target:** Semicon India KLA Hackathon 2026  
 
-**SignalForge** is a highly optimized, enterprise-grade computer vision pipeline engineered specifically for the AI-based restoration of severely degraded images. Designed to mitigate complex multi-source degradation—including **multiplicative speckle noise, Gaussian noise, and downsampling blur**—this pipeline ensures absolute fidelity in recovering high-frequency structural details without artificially clipping out-of-bounds physical sensor data.
+Our solution to problem statement 1, is a highly optimized, enterprise-grade computer vision pipeline engineered specifically for the AI-based restoration of severely degraded images. Designed to mitigate complex multi-source degradation—including **multiplicative speckle noise, Gaussian noise, and downsampling blur**—this pipeline ensures absolute fidelity in recovering high-frequency structural details without artificially clipping out-of-bounds physical sensor data.
 
 ---
 
